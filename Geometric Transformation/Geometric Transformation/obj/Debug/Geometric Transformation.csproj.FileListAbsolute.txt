@@ -1,0 +1,77 @@
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Geometric Transformation.exe.config
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Geometric Transformation.exe
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Geometric Transformation.pdb
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.Licensing.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric Transformation.csprojAssemblyReference.cache
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric_Transformation.Form1.resources
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric_Transformation.Properties.Resources.resources
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric Transformation.csproj.GenerateResource.cache
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric Transformation.csproj.CoreCompileInputs.cache
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric Transformation.csproj.CopyComplete
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric Transformation.exe
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric Transformation.pdb
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric_Transformation.FormOf2d.resources
+D:\Studying\Studying\level three\2nd term\graphics\my task\Geometric Transformation\Geometric Transformation\obj\Debug\Geometric_Transformation.FormOf3d.resources

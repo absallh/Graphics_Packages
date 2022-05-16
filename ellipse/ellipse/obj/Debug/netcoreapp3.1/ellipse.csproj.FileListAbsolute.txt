@@ -1,0 +1,15 @@
+D:\F School\Graphics\ellipse\ellipse\bin\Debug\netcoreapp3.1\ellipse.exe
+D:\F School\Graphics\ellipse\ellipse\bin\Debug\netcoreapp3.1\ellipse.deps.json
+D:\F School\Graphics\ellipse\ellipse\bin\Debug\netcoreapp3.1\ellipse.runtimeconfig.json
+D:\F School\Graphics\ellipse\ellipse\bin\Debug\netcoreapp3.1\ellipse.runtimeconfig.dev.json
+D:\F School\Graphics\ellipse\ellipse\bin\Debug\netcoreapp3.1\ellipse.dll
+D:\F School\Graphics\ellipse\ellipse\bin\Debug\netcoreapp3.1\ellipse.pdb
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.csprojAssemblyReference.cache
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.Form1.resources
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.csproj.GenerateResource.cache
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.AssemblyInfoInputs.cache
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.AssemblyInfo.cs
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.csproj.CoreCompileInputs.cache
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.dll
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.pdb
+D:\F School\Graphics\ellipse\ellipse\obj\Debug\netcoreapp3.1\ellipse.genruntimeconfig.cache
